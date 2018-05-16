@@ -1,0 +1,26 @@
+# React Material Floating Button
+
+
+Material design floating action button implemented as a React component. Forked from http://nobitagit.github.io/react-material-floating-button/. React@16 dependencies support by shirazz (https://github.com/shirazz).
+
+Made to be fast and easy to customize.
+~~Shamelessly~~ inspired by action buttons from Google Inbox, Evernote and Path.
+
+Clone/download the repo from Github or just use npm:
+```
+npm install react-mfb --save
+```
+
+Docs are still to come (but hopefully will be there soon).
+In the meantime if you want to play with it check the project homepage source code for hints on how to use the component.
+
+## Demo
+See the [project page](http://nobitagit.github.io/react-material-floating-button/) or just look at this awesome gif:
+
+<img src="http://zippy.gfycat.com/LimitedTatteredFieldmouse.gif">
+
+**Other versions**
+- [Vanilla html](https://github.com/nobitagit/material-floating-button) (original, upstream version of the component)
+- [Angular directive](https://github.com/nobitagit/ng-material-floating-button)
+
+Demo icons courtesy of [Ionicons](http://ionicons.com)
